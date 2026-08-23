@@ -1,6 +1,6 @@
 # Database Fundamentals
 
-This folder contains database fundamentals concepts and practice examples.
+This folder contains database fundamentals concepts.
 
 Database fundamentals are the foundation for understanding how databases store, organize, and manage data.
 

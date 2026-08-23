@@ -1,6 +1,6 @@
 # Database Tables
 
-This folder contains database table concepts and practice examples.
+This folder contains database table concepts.
 
 Tables are one of the core components of relational databases. They organize data into rows and columns, making it easier to store and manage related information.
 
